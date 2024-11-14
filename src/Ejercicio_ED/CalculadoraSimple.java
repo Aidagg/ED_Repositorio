@@ -6,7 +6,7 @@ public class CalculadoraSimple {
 		
 		Scanner scanner = new Scanner(System.in); // Pregunta
 		System.out.println("Calculadora Simple:");
-		System.out.print("Introduce el primer número: ");
+		System.out.print("Introduce el primer número: "); // Pregunta
 		double numero1 = scanner.nextDouble();      
 		System.out.print("Introduce el segundo número: ");
 		double numero2 = scanner.nextDouble();      
