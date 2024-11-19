@@ -8,7 +8,7 @@ public class CalculadoraSimple {
 		System.out.println("Calculadora Simple:");
 		System.out.print("Introduce el primer número: "); // Pregunta
 		double numero1 = scanner.nextDouble();      
-		System.out.print("Introduce el segundo número: ");
+		System.out.print("Introduce el segundo número: "); // Ejercicio 7 modificación del archivo desde Github
 		double numero2 = scanner.nextDouble();      
 		double resultadoSuma = sumar(numero1, numero2);
 		double resultadoResta = restar(numero1, numero2);
